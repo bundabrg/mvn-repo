@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>au.com.grieve.multi_version_plugin</groupId>
+  <artifactId>MultiVersionPlugin</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180920.114351</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180920114351</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20180920.114351-1</value>
+        <updated>20180920114351</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20180920.114351-1</value>
+        <updated>20180920114351</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
